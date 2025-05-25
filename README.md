@@ -9,3 +9,5 @@
 
 ## ⏳ WakaTime Stats
 <!-- WakaTime будет добавлять сюда статистику автоматически, если подключить -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
