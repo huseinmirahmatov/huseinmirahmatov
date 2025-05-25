@@ -6,4 +6,4 @@
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=huseinmirahmatov&theme=radical)
 
-![WakaTime Stats from July 2024](https://github-readme-stats.vercel.app/api/wakatime?username=huseinmirahmatov&theme=radical)
+![WakaTime Stats from May 2025](https://github-readme-stats.vercel.app/api/wakatime?username=huseinmirahmatov&theme=radical)
