@@ -6,4 +6,4 @@
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=huseinmirahmatov&theme=radical)
 
-
+[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)](https://wakatime.com/@huseinmirahmatov) 
