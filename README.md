@@ -16,4 +16,3 @@
 
 </div>
 
-[![WakaTime Profile](https://wakatime.com/badge/user/dnneep.svg)](https://wakatime.com/@dnneeep)
