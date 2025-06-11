@@ -1,6 +1,4 @@
-# 👋 Hello, I'm Husein Mirahmatov 
 
-💻 Python Developer | 🌍 Tajikistan | 🚀 Open Source Contributor
 
 ## 📊 Coding Activity
 
