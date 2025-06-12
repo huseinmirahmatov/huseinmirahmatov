@@ -1,5 +1,3 @@
-
-
 ## 📊 Coding Activity
 
 ### WakaTime Weekly Stats
@@ -15,7 +13,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=huseinmirahmatov&theme=radical&hide_border=true)
 
 </div>
-
-
-</div>
-
