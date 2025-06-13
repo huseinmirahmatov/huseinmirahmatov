@@ -24,19 +24,19 @@
 
 ## ⏱ WakaTime Stats:
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=dnneeep&layout=compact&theme=tokyonight)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=huseinmirahmatov&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📈 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnneeep&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnneeep&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huseinmirahmatov&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huseinmirahmatov&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=dnneeep&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=huseinmirahmatov&theme=tokyonight)
 
 ---
 
