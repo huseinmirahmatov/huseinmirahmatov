@@ -4,8 +4,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huseinmirahmatov&show_icons=true&theme=radical)
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=huseinmirahmatov&theme=radical)
-
 ![WakaTime Stats from July 2024](https://github-readme-stats.vercel.app/api/wakatime?username=dnneeep&theme=radical)
 
 ## 🏆 GitHub Trophies:
