@@ -1,7 +1,7 @@
 
 ## ⏱️ WakaTime Stats:
 
-[![wakatime](https://wakatime.com/badge/user/dnneeep.svg)](https://wakatime.com/@dnneeep)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dnneeep&theme=radical)
 
 ## 🏆 GitHub Trophies:
 
