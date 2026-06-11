@@ -9,11 +9,7 @@
 
 ## 📊 Подробнее о моих стеках:
 
-<!-- Языки -->
-<img src="https://wakatime.com/share/@dnneeep/languages/6m.svg" />
-
-<!-- Редакторы -->
-<img src="https://wakatime.com/share/@dnneeep/editors/6m.svg" />
-
-<!-- ОС -->
-<img src="https://wakatime.com/share/@dnneeep/operating_systems/6m.svg" />
+- **Языки:** Python, VueJS
+- **Редакторы:** VS Code
+- **ОС:** Windows
+- **Фреймворки:** Django
