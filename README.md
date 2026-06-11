@@ -7,7 +7,7 @@
 
 ![Trophies](https://trophy-stats.vercel.app/?username=huseinmirahmatov&theme=darkhub)
 
-## 🛠 Мой стек технологий
+## 🛠 My tech stack
 
 <div align="center">
   
